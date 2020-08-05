@@ -17,3 +17,11 @@ Influential things happened in 2020.
 ## Beirut explosion
 
 - [Video - Reddit](https://www.reddit.com/r/PublicFreakout/comments/i3lzc3/better_shot_of_the_beirut_explosion/)
+
+# June
+
+## Apple announces Apple silicon
+
+- [Apple announces Mac transition to Apple silicon - Apple](https://nr.apple.com/d2O2Y718J3)
+- [Apple will reportedly use 12-core 5nm ARM processor in a 2021 Mac - The Verge](https://www.theverge.com/2020/4/23/21232441/apple-arm-mac-2020-5nm-processor-12-cores)
+- [Intel’s next-gen 7nm chips are delayed until at least 2022 - The Verge](https://www.theverge.com/circuitbreaker/2020/7/23/21336356/intel-7nm-chips-next-gen-delay-q2-2020-earnings-amd-10nm-tiger-lake-desktop-laptop-cpu)
