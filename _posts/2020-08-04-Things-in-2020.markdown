@@ -2,25 +2,26 @@
 layout: post
 title: "Things in 2020"
 date: 2020-08-04
+permalink: "things-in-2020"
 ---
 Influential things happened in 2020.
 
-# August
+## August
 
-## Trump plans to ban TikTok app in the U.S.
+### Trump plans to ban TikTok app in the U.S.
 
 - [Trump says he will ban TikTok app in the U.S. - Youtube](https://www.youtube.com/watch?v=FY5_NmQ7WPQ)
 - [Donald Trump: US Treasury should get cut of TikTok deal - BBC](https://www.bbc.com/news/business-53633315)
     - Donald Trump says the government should get a cut from the sale of TikTok's US unit if an American firm buys it.
 - [沈逸：TikTok事件背后，我们来品品“懂王”的剧本 - Youtube](https://www.youtube.com/watch?v=UXTBauIsUic&t=65s)
 
-## Beirut explosion
+### Beirut explosion
 
 - [Video - Reddit](https://www.reddit.com/r/PublicFreakout/comments/i3lzc3/better_shot_of_the_beirut_explosion/)
 
-# June
+## June
 
-## Apple announces Apple silicon
+### Apple announces Apple silicon
 
 - [Apple announces Mac transition to Apple silicon - Apple](https://nr.apple.com/d2O2Y718J3)
 - [Apple will reportedly use 12-core 5nm ARM processor in a 2021 Mac - The Verge](https://www.theverge.com/2020/4/23/21232441/apple-arm-mac-2020-5nm-processor-12-cores)
