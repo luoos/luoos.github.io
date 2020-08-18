@@ -10,6 +10,9 @@ Theme is forked from [thelehhman/texture](https://github.com/thelehhman/texture)
 # you may install bunlder and jekyll with following cmd
 gem install bundler jekyll
 
+# upgrade plugins
+bundle update
+
 # run the server locally
 bundle exec jekyll serve
 ```
